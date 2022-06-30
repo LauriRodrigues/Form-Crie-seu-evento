@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo Explorer" title="Explorer" src="./assets/readme/Logo1.png">
+  <img alt="Logo Explorer" title="Explorer" src="./readme/Logo1.png">
 </div>
 	
 <h4 align="center"> 
@@ -7,13 +7,13 @@
 </h4>
 
 <div align="center">
-  <img alt="GitHub language count" src="">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/LauriRodrigues/Form-Crie-seu-evento?style=plastic">
 
-  <img alt="GitHub repo size" src="">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/LauriRodrigues/Form-Crie-seu-evento?style=plastic">
   
-  <img alt="GitHub last commit" src="">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/LauriRodrigues/Form-Crie-seu-evento?color=1280bf&style=plastic">
   
-  <a href=""> ▶️ Visualizar Deploy </a>
+  <a href="https://laurirodrigues.github.io/Form-Crie-seu-evento/"> ▶️ Visualizar Deploy </a>
 </div>
 
 <h2 align=left> 💻 Sobre o projeto </h3>
@@ -31,4 +31,4 @@
 
 <h4>💻 Desktop </h4>
 
-<img alt="Versão Desktop" title="Desktop" src="./readme/Desktop.png" width="70%">
+<img alt="Versão Desktop" title="Desktop" src="./readme/Desktop.png" width="60%">
