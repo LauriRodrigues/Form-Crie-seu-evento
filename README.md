@@ -17,7 +17,7 @@
 </div>
 
 <h2 align=left> 💻 Sobre o projeto </h3>
-<p> Página de formulário feita durante o programa <strong>Explorer</strong> da <a href="https://www.rocketseat.com.br/"> <strong>Rocketseat</strong> </a>. É o quarto projeto do nível 3 do programa, onde construímos um formulário para fixação de conceitos de HTML e CSS, como estrutura de formulários, inputs, customização de checkboxs, pseudo-classes e validações .<p>
+<p> Página de formulário feita durante o programa <strong>Explorer</strong> da <a href="https://www.rocketseat.com.br/"> <strong>Rocketseat</strong> </a>. É o quarto projeto do programa, localizado no nível 3, onde construímos um formulário para fixação de conceitos de HTML e CSS, como estrutura de formulários, inputs, customização de checkboxs, pseudo-classes e validações .<p>
   
 <h2 align=left> 🛠 Tecnologias utilizadas </h3>
 
